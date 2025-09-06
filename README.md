@@ -1,27 +1,51 @@
-Welcome to the Blinkit Sales Dashboard, a powerful tool designed to visualize and analyze sales performance for Blinkit – India's leading Last Minute App.
+RETAIL SALES SALES ANALYSIS DASHBOARD  – Blinkit
 
-## Dashboard Insights
+PROJECT OVERVIEW 
 
-- **Total Sales:** $1.2 million
-- **Items Analyzed:** 8,523
-- **Average Customer Rating:** 4.0
-- **Top Item Categories:** Fruits & Vegetables, Snack Foods, Household Items
-- **Leading Outlet Type:** Supermarket Type 1
-- **Highest Performing Location:** Tier 3 Cities
-- **Fat Content Distribution:** 65% Regular, 35% Low Fat
+This project showcases a "Retail Sales Dashboard" built in Excel for Blinkit.  
+The goal was to analyze sales trends, customer preferences, and outlet performance to generate **data-driven insights.
 
-## 🛠️ Tools Used
+<img width="1553" height="801" alt="BLINKIT SS2" src="https://github.com/user-attachments/assets/f330846c-0ade-463b-9bf0-8abb357b600a" />
 
-- Microsoft Excel
-- Pivot Tables
-- Dynamic Charts
-- Power Query
-- Comprehensive Data Visualization & Analysis
 
-##  Author
 
-- 👤 Wani Umer
-- 📫 Contact: waniumar398@gmail.com
+ OBJECTIVES 
+ 
+- Track key KPIs: Total Sales, Average Sales, No. of Items, Avg. Rating
+- Analyze sales by Fat Content
+- Identify top-performing Item Types
+- Evaluate Outlet Size, Location, and Establishment trends
+- Compare Outlet Types for performance
 
-This dashboard is not just a collection of data; it's an essential resource for understanding sales trends and making informed business decisions that will drive Blinkit's success.
+ KEY INSIGHTS 
+ 
+- Total Sales = $1.2M | No. of Items = 8,523 | Avg. Sales = $141| Avg. Rating = 4.0.
+  
+- Regular Fat items:-  65% of sales ($776K) vs. Low Fat: 35% ($425K).
+  
+- Top Item Types: Fruits & Vegetables ($178K), Snack Foods ($175K), Household ($136K).
+  
+- Medium Outlets generated the highest sales ($507K).
+  
+- Tier 3 Locations led with $472K in sales.
+  
+- Supermarket Type 1 dominated with $787K and 5,577 items sold.
 
+ TOOLS & TECHNIQUES 
+ 
+- Excel.
+- Data Cleaning & Preparation.
+- Pivot Tables & Pivot Charts.
+- Slicers & Filters.
+- Dashboard Design.
+
+KEY LEARNINGS. 
+
+- Linking outlet characteristics to business performance.
+- Customer preferences impact product-level sales.
+- Building an interactive Excel dashboard for storytelling.
+- Extracting insights from raw sales data.
+
+LINKS 
+- Website Portfolio:-
+- LinkedIn :-
