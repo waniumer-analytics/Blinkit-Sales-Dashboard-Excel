@@ -48,4 +48,4 @@ KEY LEARNINGS.
 
 LINKS 
 - Website Portfolio:-
-- LinkedIn :-
+- LinkedIn :- www.linkedin.com/in/waniumer-analytics
