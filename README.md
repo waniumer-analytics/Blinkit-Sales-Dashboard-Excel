@@ -1,6 +1,6 @@
 RETAIL SALES SALES ANALYSIS DASHBOARD  – Blinkit.
 
-PROJECT OVERVIEW 
+                                     PROJECT OVERVIEW 
 
 This project showcases a "Retail Sales Dashboard" built in Excel for Blinkit.  
 The goal was to analyze sales trends, customer preferences, and outlet performance to generate data-driven insights.
@@ -31,7 +31,7 @@ The goal was to analyze sales trends, customer preferences, and outlet performan
   
 - Supermarket Type 1 dominated with $787K and 5,577 items sold.
 
- TOOLS & TECHNIQUES 
+                                  TOOLS & TECHNIQUES 
  
 - Excel.
 - Data Cleaning & Preparation.
@@ -39,13 +39,13 @@ The goal was to analyze sales trends, customer preferences, and outlet performan
 - Slicers & Filters.
 - Dashboard Design.
 
-KEY LEARNINGS. 
+                                   KEY LEARNINGS. 
 
 - Linking outlet characteristics to business performance.
 - Customer preferences impact product-level sales.
 - Building an interactive Excel dashboard for storytelling.
 - Extracting insights from raw sales data.
 
-LINKS 
+                                          LINKS 
 - Website Portfolio:-
 - LinkedIn :- www.linkedin.com/in/waniumer-analytics
