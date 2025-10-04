@@ -1,7 +1,8 @@
                                    RETAIL SALES  ANALYSIS DASHBOARD  – Blinkit.
                                    
-                                                        DOMAIN 
-Retail | Sales Analytics | Business Intelligence    
+                                                    
+   
+                                DOMAIN :- Retail | Sales Analytics | Business Intelligence    
 
                                                       PROJECT OVERVIEW 
 
