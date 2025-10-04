@@ -119,5 +119,5 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 
                                                     LINKS 
 - Website Portfolio:-
-- GitHUB :- github.com/waniumer-analytics
+- GitHUB :- https://github.com/waniumer-analytics
 - LinkedIn :- www.linkedin.com/in/waniumer-analytics
