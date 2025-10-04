@@ -1,6 +1,8 @@
-RETAIL SALES SALES ANALYSIS DASHBOARD  – Blinkit.
+                                   RETAIL SALES  ANALYSIS DASHBOARD  – Blinkit.
+                                                        DOMAIN 
+Retail | Sales Analytics | Business Intelligence    
 
-                                     PROJECT OVERVIEW 
+                                                      PROJECT OVERVIEW 
 
 This project showcases a "Retail Sales Dashboard" built in Excel for Blinkit.  
 The goal was to analyze sales trends, customer preferences, and outlet performance to generate data-driven insights.
@@ -9,7 +11,7 @@ The goal was to analyze sales trends, customer preferences, and outlet performan
 
 
 
-                                       OBJECTIVES 
+                                                      OBJECTIVES 
  
 - Track key KPIs: Total Sales, Average Sales, No. of Items, Avg. Rating
 - Analyze sales by Fat Content
