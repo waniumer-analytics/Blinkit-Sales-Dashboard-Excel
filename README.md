@@ -45,7 +45,8 @@ Objective: Assess the geographic distribution of sales across different location
 11.	All Metrics by Outlet Type:
 Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.                                     
  
-                                        BLINKIT SALES INSIGHTS  & RECOMMENDATION
+                                        BLINKIT SALES INSIGHTS
+   	
 
                                 Revenue & Transaction Patterns
    	
